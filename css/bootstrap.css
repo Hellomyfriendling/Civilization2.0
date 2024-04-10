@@ -5939,10 +5939,10 @@ label,
   background-color: transparent;
   border: 0;
 }
-/* .hidden {
+.hidden {
   display: none !important;
   visibility: hidden !important;
-} */
+} 
 .affix {
   position: fixed;
 }
